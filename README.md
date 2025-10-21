@@ -137,6 +137,7 @@ Tools for generating and rendering Berlin transit maps.
 
 - [generate-vbb-graph](https://github.com/derhuerst/generate-vbb-graph) - Build a JSON Graph Format network.
 - [generate-vbb-transit-map](https://github.com/derhuerst/generate-vbb-transit-map) - Auto-generate SVG transit map of Berlin.
+- [OSM Berlin & Verkehrswende](https://github.com/osmberlin) - Organization hosting OpenStreetMap projects for sustainable transport and Berlin/Brandenburg. Includes parking data processing, traffic sign tools, street space maps, and Mapillary street coverage analysis. Active community with monthly meetups.
 - [Straßenraumkarte Neukölln](https://github.com/osmberlin/strassenraumkarte-neukoelln) - Detailed OpenStreetMap-based map style focusing on urban street space, including roadways, street furniture, buildings, and parking. Architecture-plan aesthetic with detailed representation of Berlin-Neukölln's street environment.
 - [transit-map-generator](https://github.com/derhuerst/transit-map-generator) - Interactive generator/optimizer. **Unfinished**
 - [vbb-graph-computation-server](https://github.com/derhuerst/vbb-graph-computation-server) - Queue VBB map computations. **Unfinished**

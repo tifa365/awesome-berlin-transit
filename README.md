@@ -128,6 +128,10 @@ Interactive tools, bots, and experimental applications for Berlin transit.
 - [remix-bvg-map-frontend](https://github.com/derhuerst/remix-bvg-map-frontend) - Remix the BVG map (front-end).
 - [remix-bvg-map-backend](https://github.com/derhuerst/remix-bvg-map-backend) - Backend for the map remixer.
 - [bvg-topological-map](https://github.com/derhuerst/bvg-topological-map) - Official BVG network as a tagged SVG dataset.
+- [BrokenLifts.org](https://brokenlifts.org/) - Real-time tracking of elevator and escalator outages across Berlin's public transport network. Shows which stations have accessibility issues, helping mobility-impaired passengers plan routes and avoid stations with broken lifts.
+- [Berlin zählt Mobilität](https://lab.technologiestiftung.de/projects/berlin-zahlt-mobilitat/) - Open data platform for counting pedestrians and cyclists at measurement points across Berlin. Visualizes mobility patterns and traffic volumes to support evidence-based urban planning and the Verkehrswende (mobility transition).
+- [Umweltzone Berlin](https://umweltzone.berlin/) - Interactive map showing Berlin's low-emission zone boundaries and regulations. Helps drivers understand where environmental badges are required and what restrictions apply to different vehicle types.
+- [Infravelo Fahrradstraßen](https://www.infravelo.de/karte/) - Interactive map of Berlin's bike streets (Fahrradstraßen) where cyclists have priority and special rights. Shows current bike street infrastructure and planned projects. Bike streets play a central role in Berlin's secondary street network, increasing safety and making cycling more attractive.
 
 ------------------------------
 

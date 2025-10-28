@@ -132,6 +132,7 @@ Interactive tools, bots, and experimental applications for Berlin transit.
 - [Berlin zählt Mobilität](https://lab.technologiestiftung.de/projects/berlin-zahlt-mobilitat/) - Open data platform for counting pedestrians and cyclists at measurement points across Berlin. Visualizes mobility patterns and traffic volumes to support evidence-based urban planning and the Verkehrswende (mobility transition).
 - [Umweltzone Berlin](https://umweltzone.berlin/) - Interactive map showing Berlin's low-emission zone boundaries and regulations. Helps drivers understand where environmental badges are required and what restrictions apply to different vehicle types.
 - [Infravelo Fahrradstraßen](https://www.infravelo.de/karte/) - Interactive map of Berlin's bike streets (Fahrradstraßen) where cyclists have priority and special rights. Shows current bike street infrastructure and planned projects. Bike streets play a central role in Berlin's secondary street network, increasing safety and making cycling more attractive.
+- [Parken im Straßenraum](https://gdi.berlin.de/geonetwork/srv/api/records/3c507d6f-77d6-48bd-aa9b-0d6b3ed1d894) - Comprehensive dataset of all street parking spaces in Berlin. Complete coverage within the S-Bahn ring (95% accuracy as of July 2023) and outer areas (80% accuracy as of 2021). Available via WMS/WFS services. Data collected through street surveys, OpenStreetMap, and CityScanner technology. Published by Senate Department for Mobility, Transport, Climate Protection and Environment under DL-DE-Zero-2.0 license.
 
 ------------------------------
 

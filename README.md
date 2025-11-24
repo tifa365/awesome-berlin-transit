@@ -69,6 +69,7 @@ Additional information and metadata about VBB/BVG infrastructure.
 - [vbb-fare-zones](https://github.com/derhuerst/vbb-fare-zones) - AB/BC/ABC mapping for all VBB stations.
 - [vbb-station-operators](https://github.com/derhuerst/vbb-station-operators) - Operator per station (BVG, S-Bahn etc.).
 - [vbb-osm-relations](https://github.com/derhuerst/vbb-osm-relations) - OSM relation IDs for VBB lines/platforms/entrances.
+- [siemensbahn-berlin](https://github.com/tifa365/siemensbahn-berlin) - OSM data extractor for the Siemensbahn railway line (relation 7382983) with exports to GeoJSON, Shapefile, and interactive HTML map.
 - [vbb-station-photos](https://github.com/derhuerst/vbb-station-photos) - Photos for every Berlin U-Bahn station.
 - [vbb-platform-patterns](https://github.com/derhuerst/vbb-platform-patterns) - U-Bahn platform tile color patterns.
 - [vbb-stations-with-wifi](https://github.com/derhuerst/vbb-stations-with-wifi) - Free Wi-Fi spots/BSSIDs at stations.

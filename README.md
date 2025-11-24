@@ -79,6 +79,7 @@ Additional information and metadata about VBB/BVG infrastructure.
 - [vbb-delays-list](https://github.com/derhuerst/vbb-delays-list) - Station delay statistics. **Unfinished**
 - [vbb-graph](https://github.com/derhuerst/vbb-graph) - JSON Graph of the whole VBB network.
 - [vbb-common-places](https://github.com/derhuerst/vbb-common-places) - Aliases for iconic places ("zoo", "alex", "kotti"…).
+- [Der BER im 3D-Modell](https://interaktiv.tagesspiegel.de/lab/flughafen-ber-in-3d/) - Interactive 3D model explaining Berlin Brandenburg Airport's 14-year construction delays and technical problems.
 
 ------------------------------
 

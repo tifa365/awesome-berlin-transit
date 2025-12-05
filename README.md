@@ -79,7 +79,7 @@ Additional information and metadata about VBB/BVG infrastructure.
 - [vbb-delays-list](https://github.com/derhuerst/vbb-delays-list) - Station delay statistics. **Unfinished**
 - [vbb-graph](https://github.com/derhuerst/vbb-graph) - JSON Graph of the whole VBB network.
 - [vbb-common-places](https://github.com/derhuerst/vbb-common-places) - Aliases for iconic places ("zoo", "alex", "kotti"…).
-- [Der BER im 3D-Modell](https://interaktiv.tagesspiegel.de/lab/flughafen-ber-in-3d/) - Interactive 3D model explaining Berlin Brandenburg Airport's 14-year construction delays and technical problems.
+- [Der BER im 3D-Modell](https://interaktiv.tagesspiegel.de/lab/flughafen-ber-in-3d/) - Interactive 3D model explaining Berlin Brandenburg Airport's 14-year construction delays and technical problems. 3D model extractable (not officially provided).
 
 ------------------------------
 
@@ -180,6 +180,12 @@ Useful gists and extracted configuration files.
 - [VBB Android app config files](https://gist.github.com/derhuerst/a8d94a433358abc015ff77df4481070c) - Extracted HAFAS properties from the official app.
 - [BVG Berlkönig HAFAS requests](https://gist.github.com/derhuerst/6fe0663338e542d7d35998990c623a69) - Sample HTTP calls for the Berlkönig integration.
 - [List of HAFAS API Endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5) - Broad list of endpoints, useful for cross-checking BVG/VBB.
+
+------------------------------
+
+## See Also
+
+- [awesome-transit](https://github.com/MobilityData/awesome-transit) - Community list of data standards, APIs, apps, tools, datasets, and research around open source technology of public transit (global scope).
 
 ------------------------------
 

@@ -188,7 +188,7 @@ Useful gists and extracted configuration files.
 ## See Also
 
 - 🌐 [awesome-transit](https://github.com/MobilityData/awesome-transit) - Community list of data standards, APIs, apps, tools, datasets, and research around open source technology of public transit (global scope).
-- 📍 [pois-berlin: Transport & Mobility](https://github.com/tifa365/pois-berlin/blob/main/README.md#transport--mobility) - Berlin open data for micromobility parking, EV charging stations, bike repair stations, cycling routes, park-and-ride, and accessible parking.
+- 📍 [pois-berlin](https://github.com/tifa365/pois-berlin) - Berlin open data points of interest collection. Includes transport & mobility (EV charging, bike parking, cycling routes) and more.
 
 ------------------------------
 

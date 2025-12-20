@@ -70,6 +70,7 @@ Additional information and metadata about VBB/BVG infrastructure.
 - [vbb-station-operators](https://github.com/derhuerst/vbb-station-operators) - Operator per station (BVG, S-Bahn etc.).
 - [vbb-osm-relations](https://github.com/derhuerst/vbb-osm-relations) - OSM relation IDs for VBB lines/platforms/entrances.
 - [siemensbahn-berlin](https://github.com/tifa365/siemensbahn-berlin) - OSM data extractor for the Siemensbahn railway line (relation 7382983) with exports to GeoJSON, Shapefile, and interactive HTML map.
+- [berliner_mauerweg_download](https://github.com/tifa365/berliner_mauerweg_download) - Get the Berliner Mauerweg (Berlin Wall Trail) as GeoJSON. Downloads and merges the official GPX route segments from berlin.de into a single file.
 - [vbb-station-photos](https://github.com/derhuerst/vbb-station-photos) - Photos for every Berlin U-Bahn station.
 - [vbb-platform-patterns](https://github.com/derhuerst/vbb-platform-patterns) - U-Bahn platform tile color patterns.
 - [vbb-stations-with-wifi](https://github.com/derhuerst/vbb-stations-with-wifi) - Free Wi-Fi spots/BSSIDs at stations.

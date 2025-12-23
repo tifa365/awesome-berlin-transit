@@ -138,6 +138,7 @@ Interactive tools, bots, and experimental applications for Berlin transit.
 - 🚴 [Infravelo Fahrradstraßen](https://www.infravelo.de/karte/) - Map of Berlin's bike streets (Fahrradstraßen) with current and planned infrastructure.
 - 🅿️ [Parken im Straßenraum](https://gdi.berlin.de/geonetwork/srv/api/records/3c507d6f-77d6-48bd-aa9b-0d6b3ed1d894) - Dataset of all street parking spaces in Berlin. Available via WMS/WFS.
 - 🚲 [Critical Tracks](https://criticaltracks.k-nut.eu) - Visualization of Critical Mass bike rides in Berlin with time-based playback. [Data](https://criticaltracks.k-nut.eu/data).
+- 🚇 [berlin-ubahn-map](https://github.com/skamsie/berlin-ubahn-map) - Interactive U-Bahn map with station info from Wikipedia and route finder. [Live](https://ubahn-map.com/).
 
 ------------------------------
 
